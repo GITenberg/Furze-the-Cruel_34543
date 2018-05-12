@@ -1,0 +1,27 @@
+_repo: Furze-the-Cruel_34543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trevena, John
+    alias: Henham, Ernest G. (Ernest George)
+    birthdate: 1870
+    gutenberg_agent_id: '37074'
+    url: http://www.gutenberg.org/2009/agents/37074
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_George_Henham
+description: ''
+gutenberg_issued: '2010-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dartmoor (England) -- Fiction'
+- !lcc 'PR'
+title: Furze the Cruel
+url: http://www.gutenberg.org/ebooks/34543
